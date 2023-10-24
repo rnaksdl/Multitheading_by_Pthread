@@ -54,3 +54,6 @@ then run
 ```
 ./homework3
 ```
+
+P.S.
+This is my very first multi threading project and the very first good looking README file!
